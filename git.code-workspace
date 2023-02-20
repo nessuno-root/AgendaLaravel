@@ -1,0 +1,49 @@
+{
+	"folders": [
+		{
+			"path": "../../reloj"
+		},
+		{
+			"path": "../../mapa"
+		},
+		{
+			"path": "../../aemet"
+		},
+		{
+			"path": "../../datosAbiertos"
+		},
+		{
+			"path": "../../bocyl"
+		},
+		{
+			"path": "../../../../Users/Zoel/Desktop/chess"
+		},
+		{
+			"path": "../../main/laravel-breeze"
+		},
+		{
+			"path": "../../miniProyecto/agenda"
+		},
+		{
+			"path": "../../ProyectoBootstrap"
+		},
+		{
+			"path": "../../csgo"
+		},
+		{
+			"path": "../../FicherosPhp"
+		},
+		{
+			"path": "../../../../Users/Zoel/Desktop/Crear un fichero de texto secuencial"
+		},
+		{
+			"path": "../../../../Users/Zoel/Desktop/Leer un fichero secuencial de texto"
+		},
+		{
+			"path": "../../sesionesExamen"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "chess"
+	}
+}
